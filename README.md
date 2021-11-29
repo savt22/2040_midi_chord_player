@@ -23,9 +23,9 @@ Mod 3: maj7 triad (no fifth)
 
 Mod4: min7
 
-Mod1 + mod3: maj9
+Mod1 + mod3: maj add9 
 
-Mod2 + mod4: min9
+Mod2 + mod4: min add9
 
 All 4 mods: half dim
 
