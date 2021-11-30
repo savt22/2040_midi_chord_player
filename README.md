@@ -9,7 +9,7 @@ I started with absolutely no idea what I'm doing, and I'm sure this shows in the
 
 This is designed to work on the Pimoroni Pico RGB Base, and the first step is getting it set-up following this guide (and adding in the bits on the USB Midi example: https://github.com/pimoroni/keybow2040-circuitpython
 
-The base doesn't actually feel idea for this task, as sometimes you have to hit the pads firmly to register a keypress. I've ordered a Keybow 2040 and will see if it works better on that. 
+The base doesn't actually feel ideal for this task, as sometimes you have to hit the pads firmly to register a keypress. I've ordered a Keybow 2040 and will see if it works better on that. 
 
 The base is programmed chromatically from C3-B3, starting in the bottom left and working through the first three columns top to bottom. The white notes are lit pink, and the black notes are lit green. 
 
