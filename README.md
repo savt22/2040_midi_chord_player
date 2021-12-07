@@ -5,7 +5,7 @@ This was inspired by https://blog.4dcu.be/diy/2021/05/20/MIDIpad.html (who also 
 
 I started with absolutely no idea what I'm doing, and I'm sure this shows in the code. Feels like a lot of it is redundant and there would definitely be a better way of doing this... nevertheless, it does what I wanted it to. 
 
-This is designed to work on the Pimoroni Pico RGB Base, where it works perfectly. It should also work on the Keybow 2040, but it doesn't at the minute. On the Keybow 2040, it is really, really slow and unresponsive. 
+This is designed to work on the Pimoroni Pico RGB Base. It also works on the Keybow 2040. 
 
 The first step is getting it set-up following this guide: https://github.com/pimoroni/keybow2040-circuitpython
 
@@ -24,6 +24,8 @@ Mod2: min triad
 Mod 3: maj7 triad (no fifth)
 
 Mod4: min7
+
+The following key combinations were removed. For some reason, including multiple key combo modifiers works without issue on Windows, but it causes a range of issues on Mac, including stopping it mounting. The Keybow 2040 also didn't like it. Would like to add this back in, and it's being worked on. 
 
 Mod1 + mod3: maj add9 
 
