@@ -33,7 +33,7 @@ Mod2 + mod4: min add9
 
 All 4 mods: half dim
 
-There are loads of modifier key combos left which can be programmed how you like. 
+There are loads of modifier key combos left which can be programmed how you like if you are using the RGB Keypad Base and Windows. 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/sJZyv5DZECY/0.jpg)](https://www.youtube.com/watch?v=sJZyv5DZECY "RGB Pico Keypad MIDI Keyboard and Chord Player
 ")
